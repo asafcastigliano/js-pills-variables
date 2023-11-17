@@ -4,4 +4,17 @@ console.log(number);
 
 // ESERCIZIO 2
 const PI = 3.14;
-console.log(PI)
+console.log(PI);
+
+// ESERCIZIO 2/B
+PI = 3.1416;
+
+// ESERCIZIO 2/C
+let radius = 8;
+let circle = radius * 2 * PI;
+console.log(circle);
+
+// ESERCIZIO 3
+let name = "Carlo";
+name = "Marco";
+console.log(name);
