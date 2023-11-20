@@ -30,3 +30,14 @@ console.log(greet);
 //ESERCIZIO 4/C
 geet += " Come stai?";
 console.log(greet);
+
+// ESERCIZIO 5
+let comparison;
+let num1 = 10;
+let num2 = 11;
+if(num1 < num2){
+    comparison = num2;
+} else{
+    comparison = num1;
+}
+console.log(comparison);
