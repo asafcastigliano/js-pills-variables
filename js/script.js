@@ -41,3 +41,15 @@ if(num1 < num2){
     comparison = num1;
 }
 console.log(comparison);
+
+// ESERCIZIO 6
+let str1 = "ciao";
+let str2 = "buogiorno";
+
+if (str1 == str2){
+    comparison = true;
+} else {
+    comparison = false;
+}
+
+console.log(comparison);
