@@ -79,3 +79,7 @@ for (let i = 0; i<8; i++){
     number[i] = i;
     console.log(numers);
 }
+
+//ESERCIZIO 10
+let friuts = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"];
+console.log(friuts);
