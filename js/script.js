@@ -63,6 +63,6 @@ comparison = str1 == num1;
 console.log(comparison);
 
 //ESERCIZIO 8
-for(i=0; i<=42; i++){
+for(i=1; i<=42; i++){
     console.log(i);
 }
