@@ -71,3 +71,11 @@ for(let i=1; i<=42; i++){
 for(let i=42; i>0; i--){
     console.log(i);
 }
+
+//ESERCIZIO 9
+let numbers;
+
+for (let i = 0; i<8; i++){
+    number[i] = i;
+    console.log(numers);
+}
