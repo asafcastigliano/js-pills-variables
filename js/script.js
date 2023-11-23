@@ -7,7 +7,7 @@ const PI = 3.14;
 console.log(PI);
 
 // ESERCIZIO 2/B
-PI = 3.1416;
+//PI = 3.1416;
 
 // ESERCIZIO 2/C
 let radius = 8;
@@ -28,7 +28,7 @@ console.log(greet);
 // console.log(greet);
 
 //ESERCIZIO 4/C
-geet += " Come stai?";
+greet += " Come stai?";
 console.log(greet);
 
 // ESERCIZIO 5
@@ -53,3 +53,16 @@ if (str1 == str2){
 }
 
 console.log(comparison);
+
+//ESERCIZIO 7
+str1 = "1";
+num1 = 1;
+
+comparison = str1 == num1;
+
+console.log(comparison);
+
+//ESERCIZIO 8
+for(i=0; i<=42; i++){
+    console.log(i);
+}
