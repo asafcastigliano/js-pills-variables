@@ -83,3 +83,6 @@ for (let i = 0; i<8; i++){
 //ESERCIZIO 10
 let friuts = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"];
 console.log(friuts);
+
+//ESERCIZIO 11
+console.log(friuts.length);
